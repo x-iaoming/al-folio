@@ -1,12 +1,22 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
+title: 1969 Alumni Yearbook Cover
+description: Designed with AI-colorized photos
+img: /assets/img/cover.png
+importance: 4
 ---
+I colorized black-and-white graduation photos for the class of 1969 with machine learning algorithms and designed the yearbook cover with Photoshop.
 
-Every project has a beautiful feature showcase page.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cover.png' | relative_url }}" alt="" title="1969"/>
+    </div>
+</div>
+<div class="caption">
+    Final render of the Yearbook cover
+</div>
+
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -74,4 +84,4 @@ Here's the code for the last row of images above:
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
-```
+``` -->

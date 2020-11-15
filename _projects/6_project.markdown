@@ -1,12 +1,12 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Visual Design Portfolio - Posters
+description: Event posters design collection
+img: /assets/img/poster.png
 importance: 4
 ---
 
-Every project has a beautiful feature showcase page.
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -17,32 +17,35 @@ To give your project a background in the portfolio page, just add the img tag to
     title: project
     description: a project with a background image
     img: /assets/img/12.jpg
-    ---
+    --- -->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/poster3.png' | relative_url }}" alt="" title="library poster"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/poster1.png' | relative_url }}" alt="" title="event poster 1"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/poster2.png' | relative_url }}" alt="" title="event poster 2"/>
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Posters designed by me for the Alumni Relations office
 </div>
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/poster.png' | relative_url }}" alt="" title="example image"/>
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/button2.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Buttons designed by me to promote awareness of the gender pronouns 
 </div>
 
-You can also put regular text between your rows of images.
+<!-- You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
 
@@ -74,4 +77,4 @@ Here's the code for the last row of images above:
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
-```
+``` -->

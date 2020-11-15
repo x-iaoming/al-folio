@@ -2,23 +2,20 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: B.S. of Computer Science, Haverford College '21
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: prof_pic.png
+  address: 
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! It's Ray! I’m from Foshan, China and went to school in Singapore. I am currently studying Computer Science at Haverford College.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have been doing research on applied machine learning and interpretability in the [Dark Reactions Lab](https://github.com/darkreactions/DRP) and interned at [Tripli](http://tripli.com/) to design backend data pipeline and API for finding travel deals.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At Haverford College, I'm the Captain of [Club Badminton](https://haverford.campuslabs.com/engage/organization/haverfordbadminton) team and ex Board Member of the [International House](https://haverford.campuslabs.com/engage/organization/idomo). In my free time, I enjoy playing badminton, tennis and biking. I love scenery and event [photography](https://www.flickr.com/photos/182113123@N06/) and have worked as a college photographer. I also like learning new languages so you can speak to me in Mandarin, Cantonese, English, French, and Italian!

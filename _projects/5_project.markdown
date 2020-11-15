@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: /assets/img/1.jpg
+title: Music with the Visual Vibe
+description: Recommend music based on scene recognition (4th Place at HackNY 2019)
+img: https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/853/395/datas/original.png
 importance: 3
+redirect: https://devpost.com/software/go-go-music
 ---
 
 Every project has a beautiful feature showcase page.
