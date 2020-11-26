@@ -4,7 +4,7 @@ title: Tripli deal exploration
 description: Large-scale automative deal finding pipeline
 img: /assets/img/deals.png
 redirect: https://tripli.com/deals
-importance: 3
+importance: 2
 ---
 
 <!-- Every project has a beautiful feature showcase page.

@@ -3,7 +3,7 @@ layout: page
 title: Covid-19 Travel Policy Map
 description: An interactive d3 visualization of travel restrictions across US
 img: /assets/img/map.png
-importance: 2
+importance: 3
 redirect: https://x-iaoming.github.io/map/
 ---
 
