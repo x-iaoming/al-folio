@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! It's Ray! I’m from Foshan, China and went to school in Singapore. I am currently studying Computer Science at Haverford College.
+Hi! It's Ray! I’m from Foshan, China and went to school in Singapore on a scholarship. I am currently studying Computer Science at Haverford College.
 
 I have been doing research on applied machine learning and interpretability in the [Dark Reactions Lab](https://github.com/darkreactions/DRP) and interned at [Tripli](http://tripli.com/) to design backend data pipeline and API for finding travel deals.
 

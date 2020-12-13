@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My academic papers
+description: My academic papers (non peer-reviewed, for now)
 years: [2020]
 nav: true
 ---
