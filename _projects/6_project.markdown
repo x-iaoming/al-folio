@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Visual Design Portfolio - Posters
-description: Event posters design collection
+title: Visual Design Portfolio
+description: My Personal Design collection
 img: /assets/img/poster.png
 importance: 4
 ---
@@ -31,7 +31,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Posters designed by me for the Alumni Relations office
+    Posters for the Alumni Relations office
 </div>
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -42,7 +42,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Buttons designed by me to promote awareness of the gender pronouns 
+    Buttons to promote awareness of the gender pronouns 
 </div>
 
 <!-- You can also put regular text between your rows of images.
