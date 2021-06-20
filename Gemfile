@@ -7,5 +7,4 @@ group :jekyll_plugins do
     gem 'jekyll-scholar'
     gem 'jemoji'
     gem 'unicode_utils'
-    gem 'nokogiri', '1.3.3'
 end
