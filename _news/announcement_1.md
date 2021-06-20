@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-04-01 15:59:00-0400
+date: 2021-06-01 15:59:00-0400
 inline: true
 ---
 
-I'm actively looking for internship opportunities for Summer/Fall 2021.
+I'm working as a software engineer intern at the data unicorn company Cohesity.
